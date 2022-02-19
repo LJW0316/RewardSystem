@@ -1,0 +1,4 @@
+com\xkjs\entity\Reference.class
+com\xkjs\mapper\ReferenceMapper.class
+com\xkjs\XkjsApplication.class
+com\xkjs\controller\ReferenceController.class
